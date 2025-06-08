@@ -1,0 +1,75 @@
+{
+  "create_success": {
+    "en": "{{name}} has been created successfully.",
+    "vi": "{{name}} đã được tạo thành công."
+  },
+  "update_success": {
+    "en": "{{name}} has been updated successfully.",
+    "vi": "{{name}} đã được cập nhật thành công."
+  },
+  "delete_success": {
+    "en": "{{name}} has been deleted successfully.",
+    "vi": "{{name}} đã được xoá thành công."
+  },
+  "restore_success": {
+    "en": "{{name}} has been restored successfully.",
+    "vi": "{{name}} đã được khôi phục thành công."
+  },
+  "submit_success": {
+    "en": "{{name}} has been submitted successfully.",
+    "vi": "{{name}} đã được gửi thành công."
+  },
+  "publish_success": {
+    "en": "{{name}} has been published.",
+    "vi": "{{name}} đã được đăng."
+  },
+  "unpublish_success": {
+    "en": "{{name}} has been unpublished.",
+    "vi": "{{name}} đã được gỡ khỏi trạng thái đăng."
+  },
+  "approve_success": {
+    "en": "{{name}} has been approved.",
+    "vi": "{{name}} đã được phê duyệt."
+  },
+  "reject_success": {
+    "en": "{{name}} has been rejected.",
+    "vi": "{{name}} đã bị từ chối."
+  },
+  "upload_success": {
+    "en": "{{name}} has been uploaded successfully.",
+    "vi": "{{name}} đã được tải lên thành công."
+  },
+  "download_success": {
+    "en": "{{name}} has been downloaded.",
+    "vi": "{{name}} đã được tải xuống."
+  },
+
+  "action_failed": {
+    "en": "Failed to process {{name}}. Please try again.",
+    "vi": "Xử lý {{name}} thất bại. Vui lòng thử lại."
+  },
+  "not_found": {
+    "en": "{{name}} not found or no longer exists.",
+    "vi": "Không tìm thấy {{name}} hoặc đã bị xoá."
+  },
+  "unauthorized": {
+    "en": "You are not authorized to perform this action.",
+    "vi": "Bạn không có quyền thực hiện thao tác này."
+  },
+  "forbidden": {
+    "en": "Permission denied. You cannot access {{name}}.",
+    "vi": "Từ chối truy cập. Bạn không có quyền truy cập {{name}}."
+  },
+  "invalid_data": {
+    "en": "Invalid {{name}}. Please check again.",
+    "vi": "{{name}} không hợp lệ. Vui lòng kiểm tra lại."
+  },
+  "required_field": {
+    "en": "{{name}} is required.",
+    "vi": "{{name}} là bắt buộc."
+  },
+  "duplicate_entry": {
+    "en": "{{name}} already exists.",
+    "vi": "{{name}} đã tồn tại."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "required": {
+    "en": "{{field}} is required.",
+    "vi": "{{field}} là bắt buộc."
+  },
+  "min_length": {
+    "en": "{{field}} must be at least {{min}} characters.",
+    "vi": "{{field}} phải có ít nhất {{min}} ký tự."
+  },
+  "max_length": {
+    "en": "{{field}} must be less than {{max}} characters.",
+    "vi": "{{field}} phải ít hơn {{max}} ký tự."
+  },
+  "invalid_email": {
+    "en": "Invalid email address.",
+    "vi": "Email không hợp lệ."
+  },
+  "invalid_phone": {
+    "en": "Invalid phone number.",
+    "vi": "Số điện thoại không hợp lệ."
+  },
+  "invalid_url": {
+    "en": "Invalid URL.",
+    "vi": "Đường dẫn không hợp lệ."
+  },
+  "not_match": {
+    "en": "{{field}} does not match.",
+    "vi": "{{field}} không khớp."
+  },
+  "invalid_format": {
+    "en": "{{field}} has invalid format.",
+    "vi": "{{field}} sai định dạng."
+  },
+  "number_only": {
+    "en": "{{field}} must be a number.",
+    "vi": "{{field}} phải là số."
+  },
+  "positive_number": {
+    "en": "{{field}} must be a positive number.",
+    "vi": "{{field}} phải là số dương."
+  },
+  "max_value": {
+    "en": "{{field}} must be less than or equal to {{max}}.",
+    "vi": "{{field}} phải nhỏ hơn hoặc bằng {{max}}."
+  },
+  "min_value": {
+    "en": "{{field}} must be greater than or equal to {{min}}.",
+    "vi": "{{field}} phải lớn hơn hoặc bằng {{min}}."
+  },
+  "too_short": {
+    "en": "{{field}} is too short.",
+    "vi": "{{field}} quá ngắn."
+  },
+  "too_long": {
+    "en": "{{field}} is too long.",
+    "vi": "{{field}} quá dài."
+  },
+  "invalid_characters": {
+    "en": "{{field}} contains invalid characters.",
+    "vi": "{{field}} chứa ký tự không hợp lệ."
+  },
+  "between": {
+    "en": "{{field}} must be between {{min}} and {{max}}.",
+    "vi": "{{field}} phải nằm trong khoảng từ {{min}} đến {{max}}."
+  },
+  "equals": {
+    "en": "{{field}} must be equal to {{value}}.",
+    "vi": "{{field}} phải bằng {{value}}."
+  },
+  "not_equal": {
+    "en": "{{field}} must not be equal to {{value}}.",
+    "vi": "{{field}} không được bằng {{value}}."
+  },
+  "unique": {
+    "en": "{{field}} already exists. Please choose another.",
+    "vi": "{{field}} đã tồn tại. Vui lòng chọn giá trị khác."
+  },
+  "regex_mismatch": {
+    "en": "{{field}} does not match required pattern.",
+    "vi": "{{field}} không đúng với định dạng yêu cầu."
+  },
+  "date_invalid": {
+    "en": "{{field}} is not a valid date.",
+    "vi": "{{field}} không phải là ngày hợp lệ."
+  },
+  "date_range": {
+    "en": "{{field}} must be between {{start}} and {{end}}.",
+    "vi": "{{field}} phải nằm trong khoảng từ {{start}} đến {{end}}."
+  },
+  "past_date": {
+    "en": "{{field}} must be a past date.",
+    "vi": "{{field}} phải là một ngày trong quá khứ."
+  },
+  "future_date": {
+    "en": "{{field}} must be a future date.",
+    "vi": "{{field}} phải là một ngày trong tương lai."
+  }
+}
