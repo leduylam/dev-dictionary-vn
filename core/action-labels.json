@@ -1,0 +1,97 @@
+{
+  "create": {
+    "en": "Create",
+    "vi": "Tạo mới",
+    "note": "Dùng khi tạo một đối tượng mới"
+  },
+  "add": {
+    "en": "Add",
+    "vi": "Thêm",
+    "note": "Dùng khi thêm item con, thêm vào danh sách"
+  },
+  "save": {
+    "en": "Save",
+    "vi": "Lưu",
+    "note": "Lưu dữ liệu đang nhập, không tạo mới"
+  },
+  "edit": {
+    "en": "Edit",
+    "vi": "Chỉnh sửa",
+    "note": "Dùng khi cập nhật nội dung đã có"
+  },
+  "update": {
+    "en": "Update",
+    "vi": "Cập nhật",
+    "note": "Thường dùng chung với 'Edit', hành động lưu lại"
+  },
+  "delete": {
+    "en": "Delete",
+    "vi": "Xoá",
+    "note": "Xoá đối tượng vĩnh viễn (cẩn thận!)"
+  },
+  "remove": {
+    "en": "Remove",
+    "vi": "Gỡ",
+    "note": "Gỡ liên kết hoặc item tạm thời, không xoá vĩnh viễn"
+  },
+  "submit": {
+    "en": "Submit",
+    "vi": "Gửi",
+    "note": "Gửi form, gửi dữ liệu đến server"
+  },
+  "cancel": {
+    "en": "Cancel",
+    "vi": "Huỷ",
+    "note": "Huỷ hành động đang thực hiện"
+  },
+  "close": {
+    "en": "Close",
+    "vi": "Đóng",
+    "note": "Đóng popup, modal hoặc form"
+  },
+  "back": {
+    "en": "Back",
+    "vi": "Quay lại",
+    "note": "Quay lại trang hoặc bước trước đó"
+  },
+  "next": {
+    "en": "Next",
+    "vi": "Tiếp theo",
+    "note": "Đi đến bước tiếp theo trong form/wizard"
+  },
+  "preview": {
+    "en": "Preview",
+    "vi": "Xem trước",
+    "note": "Xem trước nội dung chưa lưu"
+  },
+  "reset": {
+    "en": "Reset",
+    "vi": "Đặt lại",
+    "note": "Khôi phục về trạng thái ban đầu"
+  },
+  "upload": {
+    "en": "Upload",
+    "vi": "Tải lên",
+    "note": "Tải file lên server hoặc form"
+  },
+  "download": {
+    "en": "Download",
+    "vi": "Tải xuống",
+    "note": "Tải file từ hệ thống về máy"
+  },
+  "filter": {
+    "en": "Filter",
+    "vi": "Lọc",
+    "note": "Lọc kết quả theo điều kiện"
+  },
+  "search": {
+    "en": "Search",
+    "vi": "Tìm kiếm",
+    "note": "Tìm dữ liệu trong hệ thống"
+  },
+  "refresh": {
+    "en": "Refresh",
+    "vi": "Làm mới",
+    "note": "Tải lại dữ liệu"
+  }
+}
